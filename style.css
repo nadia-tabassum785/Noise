@@ -316,8 +316,33 @@ html, body{
         /* min-height: 40vw; */
     }
     .redarea{
-        min-height: 60vw;
+     min-height: 80vh;
     }
+    
+    #elemred{
+        height: 30vh;
+    }
+    #flowers{
+        height: 50vh;
+    }
+    .videocontainer{
+        height: 50vh;
+    }
+    .portionwhite{
+        min-height: 35vh;
+        position: relative;
+    }
+    .lightclr{
+        position: absolute;
+        top: 10px;
+        text-align: center;
+    }
+    .minicontacticon{
+        position: absolute;
+        bottom: 10px;
+        text-align: center;
+    }
+    
 }
 
 
